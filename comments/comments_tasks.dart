@@ -1,12 +1,11 @@
 // Dart Comments Tasks Solutions
 // Student: Farxod Qarshiyev
 // University: New Uzbekistan University
-// Date: December 15, 2024
+// Date: September 9, 2025
 
 /*
 Author: Farxod Qarshiyev
-Date: December 15, 2024
-This program demonstrates how to use comments in Dart.
+Date: September 9, 2025
 */
 
 // Task 1 (Sample with Solution)
@@ -33,8 +32,7 @@ void task2() {
 // "This is my first Dart function."
 /*
 Name: Farxod Qarshiyev
-Date: December 15, 2024
-Description: This is my first Dart function.
+Date: September 9, 2025
 */
 void sayHello() {
   print('Hello from a function!');

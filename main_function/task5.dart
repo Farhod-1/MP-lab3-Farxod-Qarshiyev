@@ -1,6 +1,6 @@
 // Task 5: Write a program that prints the following message, including the current year (2025):
 // The current year is 2025.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {

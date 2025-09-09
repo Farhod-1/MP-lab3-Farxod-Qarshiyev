@@ -1,5 +1,5 @@
 // Task 5: Write a for loop that counts down from 5 to 1 and then prints "Liftoff!" after the loop is finished.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {

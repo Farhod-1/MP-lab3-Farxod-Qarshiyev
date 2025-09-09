@@ -1,8 +1,8 @@
 // Task 4: Using a single print() statement, write a program that prints a multi-line address
-// for a fictional location in Tashkent.
-// Student: Diyorbek Adxamov
+// for a fictional location in Samarkand.
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {
-  print('1 Amir Temur Avenue\nTashkent, Uzbekistan\n100000');
+  print('15 Registan Square\nSamarkand, Uzbekistan\n140100');
 }

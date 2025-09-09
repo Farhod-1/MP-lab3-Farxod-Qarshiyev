@@ -1,10 +1,9 @@
 // Dart Control Flow Tasks Solutions
 // Student: Farxod Qarshiyev
 // University: New Uzbekistan University
-// Date: December 15, 2024
+// Date: September 9, 2025
 
-// Task 1 (Sample with Solution)
-// Goal: Check if a number is greater than 10.
+// Task 1
 void task1() {
   int number = 18;
   
@@ -18,8 +17,6 @@ void task1() {
 }
 
 // Task 2
-// Declare an integer variable studentScore and set it to 85. 
-// Write an if-else statement that prints "Pass" if the score is 60 or greater, and "Fail" otherwise.
 void task2() {
   int studentScore = 85;
   
@@ -31,10 +28,6 @@ void task2() {
 }
 
 // Task 3
-// Declare an integer variable hour and set it to 16. Write an if-else if-else statement that prints:
-// • "Good morning" if hour is less than 12.
-// • "Good afternoon" if hour is between 12 and 18 (inclusive).
-// • "Good evening" for any other time.
 void task3() {
   int hour = 16;
   
@@ -48,7 +41,6 @@ void task3() {
 }
 
 // Task 4
-// Write a for loop that prints all the numbers from 1 to 10, each on a new line.
 void task4() {
   for (int i = 1; i <= 10; i++) {
     print(i);
@@ -56,7 +48,6 @@ void task4() {
 }
 
 // Task 5
-// Write a for loop that counts down from 5 to 1 and then prints "Liftoff!" after the loop is finished.
 void task5() {
   for (int i = 5; i >= 1; i--) {
     print(i);
@@ -65,8 +56,6 @@ void task5() {
 }
 
 // Task 6
-// Write a for loop that iterates from 1 to 25. Inside the loop, use an if statement 
-// to print only the numbers that are multiples of 4.
 void task6() {
   for (int i = 1; i <= 25; i++) {
     if (i % 4 == 0) {

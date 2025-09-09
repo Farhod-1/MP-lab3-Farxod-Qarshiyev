@@ -1,6 +1,6 @@
 // Task 6: Fix the broken comment and add a correct single-line comment
 // explaining what the speedOfLight variable represents.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {

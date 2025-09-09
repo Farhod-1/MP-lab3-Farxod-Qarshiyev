@@ -1,12 +1,12 @@
-// Task 6: Declare a variable using the var keyword, name it numberOfApples, and assign it the value 10.
-// Print its value. On the next line, change the value of numberOfApples to 12 and print its new value.
-// Student: Diyorbek Adxamov
+// Task 6: Declare a variable using the var keyword, name it numberOfOranges, and assign it the value 8.
+// Print its value. On the next line, change the value of numberOfOranges to 15 and print its new value.
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {
-  var numberOfApples = 10;
-  print('Number of apples: $numberOfApples');
+  var numberOfOranges = 8;
+  print('Number of oranges: $numberOfOranges');
   
-  numberOfApples = 12;
-  print('Number of apples: $numberOfApples');
+  numberOfOranges = 15;
+  print('Number of oranges: $numberOfOranges');
 }

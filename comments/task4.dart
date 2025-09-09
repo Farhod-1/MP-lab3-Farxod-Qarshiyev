@@ -1,6 +1,6 @@
 // Task 4: Use comments to "comment out" the first print statement
 // so that only the second message is displayed when the program runs.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 void main() {

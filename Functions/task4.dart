@@ -1,7 +1,7 @@
 // Task 4: Create a function named isPositive that takes one int argument number.
 // The function should return a bool: true if the number is greater than 0, and false otherwise.
 // In main, test this function with a positive and a negative number and print the results.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 bool isPositive(int number) {

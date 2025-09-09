@@ -1,5 +1,5 @@
 // Task 5: Add a documentation comment (///) to the calculateCircleArea function.
-// Student: Diyorbek Adxamov
+// Student: Farxod Qarshiyev
 // University: New Uzbekistan University
 
 import 'dart:math';

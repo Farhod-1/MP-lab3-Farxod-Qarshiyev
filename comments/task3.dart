@@ -1,7 +1,6 @@
 /*
-Name: Diyorbek Adxamov
+Name: Farxod Qarshiyev
 Date: September 9, 2025
-Description: This is my first Dart function.
 */
 
 void sayHello() {
